@@ -1,0 +1,11 @@
+.bgcolor
+{
+    background:url("../backround.jpg");
+}
+.textstyle{
+    color:red;
+    font-size: 50px;
+}
+.textstyle:hover{
+color:blue;
+}
